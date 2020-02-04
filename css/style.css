@@ -13,7 +13,7 @@ body {
 /* Titles */
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Raleway";
+    font-family: "Pacifico", cursive;
     font-weight: 300;
     color: #333;
 }
@@ -247,7 +247,7 @@ hr {
 
 .wb {
     padding-top: 35px;
-    margin-bottom: 0px;
+    margin-bottom: 0;
 }
 
 .wb h4 {
@@ -271,7 +271,7 @@ hr {
 /***** MODAL CONTACT *****/
 
 .modal-content {
-    border-radius: 0px;
+    border-radius: 0;
 }
 
 .modal-header {
@@ -285,7 +285,7 @@ hr {
 
 .modal-body {
     background: #f2f2f2;
-    font-family: "Lato";
+    font-family: "Pacifico", cursive;
     font-weight: 300;
     font-size: 16px;
     color: #555;
@@ -293,7 +293,7 @@ hr {
 
 .modal-footer {
     background: #f2f2f2;
-    margin-top: 0px;
+    margin-top: 0;
 }
 
 /* ==========================================================================
@@ -368,7 +368,7 @@ hr {
     margin: 0;
     background: #eee;
     text-align: center;
-    padding-left: 0px;
+    padding-left: 0;
 }
 
 .pricing-option ul li {
